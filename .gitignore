@@ -1,0 +1,11 @@
+# Variáveis de ambiente — nunca commitar o token!
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
